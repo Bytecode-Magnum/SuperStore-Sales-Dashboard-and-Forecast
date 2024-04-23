@@ -8,9 +8,10 @@ Super-Store Sales dashboard and Forecasting using Power-BI:
 * Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes
 
 * Forecasting the sales of the super store for next upcoming 15 days.
+![dash1](https://github.com/Bytecode-Magnum/SuperStore-Sales-Dashboard-and-Forecast/assets/99680514/65ab94e9-69fb-495d-be37-e979397a0f88)
 
   
 ![dash2](https://github.com/Bytecode-Magnum/SuperStore-Sales-Dashboard-and-Forecast/assets/99680514/76970cc7-cddb-4811-9f2b-b1545827d169)
 
-![dash2](https://github.com/Bytecode-Magnum/SuperStore-Sales-Dashboard-and-Forecast/assets/99680514/4233d326-591f-4a67-97f7-4349f2a9e562)
+
 
